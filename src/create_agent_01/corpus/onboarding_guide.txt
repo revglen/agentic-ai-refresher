@@ -1,0 +1,13 @@
+New Hire Onboarding Guide (Sample Corpus Document)
+
+Week one: complete identity verification, receive equipment, and finish
+mandatory security awareness training. New hires are assigned a buddy
+from their team for the first 30 days.
+
+Week two: shadow at least two team meetings and complete role-specific
+system access requests. Access to production systems requires a
+separate approval step from the security team.
+
+30-60-90: managers should hold a check-in at 30, 60, and 90 days to
+review progress against the onboarding plan and set goals for the next
+period.

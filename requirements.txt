@@ -1,0 +1,15 @@
+python-dotenv
+torch
+langchain
+langchain-core
+langchain-text-splitters
+langchain-ollama
+langchain-groq
+langchain-huggingface
+langchain-mcp-adapters
+langsmith
+langgraph
+deepagents
+mcp
+transformers
+sentence-transformers

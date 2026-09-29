@@ -1,0 +1,15 @@
+Expense Reimbursement Policy (Sample Corpus Document)
+
+Employees may claim reimbursement for reasonable business expenses,
+including travel, client meals, and approved software subscriptions.
+Claims must be submitted within 30 days of the expense being incurred,
+with an itemized receipt attached.
+
+Meal reimbursement is capped at 40 currency units per day while
+travelling. Alcohol is not reimbursable. Air travel must be booked in
+economy class unless the flight duration exceeds six hours, in which
+case premium economy is permitted.
+
+Approval: expenses under 100 currency units are auto-approved. Anything
+above that requires sign-off from a direct manager before reimbursement
+is processed.
