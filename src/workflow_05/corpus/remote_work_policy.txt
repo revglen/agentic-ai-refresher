@@ -1,0 +1,13 @@
+Remote Work Policy (Sample Corpus Document)
+
+Employees may work remotely up to three days per week, subject to manager
+approval. Core collaboration hours are 10:00 to 16:00 local time, during
+which employees should be reachable on chat and video.
+
+Equipment: the company provides a laptop and a one-time home office
+stipend of 300 currency units. Employees are responsible for maintaining
+a stable internet connection.
+
+Security: remote employees must use the company VPN when accessing
+internal systems and must enable full-disk encryption on any device used
+for work.
