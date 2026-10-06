@@ -13,3 +13,5 @@ deepagents
 mcp
 transformers
 sentence-transformers
+
+ollama

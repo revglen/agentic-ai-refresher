@@ -19,6 +19,7 @@ dependencies = [
     "langgraph>=1.2.12",
     "langsmith>=0.14.0",
     "mcp>=1.30.0",
+    "ollama>=0.6.2",
     "python-dotenv>=1.2.3",
     "sentence-transformers>=6.1.0",
     "torch>=2.14.0",
